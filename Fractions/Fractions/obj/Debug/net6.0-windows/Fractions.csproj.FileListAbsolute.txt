@@ -1,0 +1,17 @@
+C:\Users\laptop\source\repos\Fractions\Fractions\bin\Debug\net6.0-windows\Fractions.exe
+C:\Users\laptop\source\repos\Fractions\Fractions\bin\Debug\net6.0-windows\Fractions.deps.json
+C:\Users\laptop\source\repos\Fractions\Fractions\bin\Debug\net6.0-windows\Fractions.runtimeconfig.json
+C:\Users\laptop\source\repos\Fractions\Fractions\bin\Debug\net6.0-windows\Fractions.dll
+C:\Users\laptop\source\repos\Fractions\Fractions\bin\Debug\net6.0-windows\Fractions.pdb
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.Form1.resources
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.csproj.GenerateResource.cache
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.AssemblyInfo.cs
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.dll
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\refint\Fractions.dll
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.pdb
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\Fractions.genruntimeconfig.cache
+C:\Users\laptop\source\repos\Fractions\Fractions\obj\Debug\net6.0-windows\ref\Fractions.dll
